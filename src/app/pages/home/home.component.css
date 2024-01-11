@@ -1,0 +1,148 @@
+.quadro{
+
+display: flex; 
+background-size: cover;
+justify-content: center;   
+align-items: center;
+background-color: rgba(227, 233, 243, 1);
+height: 350px;
+padding: 100px;
+top: 89px;
+left: 0px;
+  
+   
+}
+
+.quadro img{
+max-width: 1000px;
+max-height: 300px;
+
+
+}
+
+.quadro2{
+    
+  display: flex; 
+  justify-content: space-around;   
+  align-items: flex-start;
+  background-color: white;
+  background-size: cover;
+  height: 380px;
+  padding: 30px;
+  margin: 15px;
+     
+  }
+
+  .quadro2 img{
+    
+    width: 300px;
+    height: 200px;
+  }
+
+  .quadro2 h1{
+    
+    font-size: 20px;
+    font-family: 'Inria Serif';
+    color: rgb(0, 0, 0);
+    
+  }
+
+  .quadro2 p{
+    
+    font-size: 20px;
+    font-family: 'Inria Serif';
+    color: black;
+  }
+
+  .quadro3{
+    
+    display: flex; 
+    justify-content: space-around;   
+    align-items: flex-start;
+    background-color: white;
+    background-size: cover;
+    height: 380px;
+    padding: 30px;
+    margin: 15px;
+       
+    }
+  
+    .quadro3 img{
+      
+      width: 300px;
+      height: 200px;
+    }
+  
+    .quadro3 h1{
+      
+      font-size: 20px;
+      font-family: 'Inria Serif';
+      color: rgb(0, 0, 0);
+      
+    }
+  
+    .quadro3 p{
+      
+      font-size: 20px;
+      font-family: 'Inria Serif';
+      color: black;
+    }
+  
+  .quadro4{
+    
+    display: flex; 
+    justify-content: center;   
+    align-items: center;
+    background-color: rgba(227, 233, 243, 1);
+    height: 60px;
+    padding: 60px;
+    background-size: cover;
+  }
+
+  .quadro4 h1{
+    
+    font-size: 28px;
+    font-family: 'Inria Serif';
+    color: rgba(4, 75, 171, 1);
+  }
+
+
+
+  
+
+  .quadro5{
+    background-image: url('../../../assets/Images/imaculada.jpeg');
+    height: 260px;
+    background-position: center top;
+    background-size: cover;
+    
+  }
+
+
+
+  .quadro5 p {
+    
+    position: absolute;
+    font-size: 22px;
+    font-family: 'Inria Serif';
+    color: black;
+    top: 233%;
+    left: 35%;
+    transform: translate(-50%,-50%);
+    right: 35%;
+    text-align: justify;
+    width: 60%;
+    
+  }
+
+  
+
+  .quadro6{
+    background-image: url('../../../assets/Images/loja.jpeg');
+    height: 120px;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+  } 
+  

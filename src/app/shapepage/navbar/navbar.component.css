@@ -1,0 +1,10 @@
+.navbar{
+    height: 100px;
+    background-color: rgba(4, 75, 171, 1);
+    font-family: 'Inter';
+    font-size: 120%;
+    
+}
+.nav-link{
+    color: white;
+}
